@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\abstracttask\abstracttask\bin\Debug\netcoreapp3.1\abstracttask.exe
+C:\Users\acer\Desktop\abstracttask\abstracttask\bin\Debug\netcoreapp3.1\abstracttask.deps.json
+C:\Users\acer\Desktop\abstracttask\abstracttask\bin\Debug\netcoreapp3.1\abstracttask.runtimeconfig.json
+C:\Users\acer\Desktop\abstracttask\abstracttask\bin\Debug\netcoreapp3.1\abstracttask.runtimeconfig.dev.json
+C:\Users\acer\Desktop\abstracttask\abstracttask\bin\Debug\netcoreapp3.1\abstracttask.dll
+C:\Users\acer\Desktop\abstracttask\abstracttask\bin\Debug\netcoreapp3.1\abstracttask.pdb
+C:\Users\acer\Desktop\abstracttask\abstracttask\obj\Debug\netcoreapp3.1\abstracttask.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\abstracttask\abstracttask\obj\Debug\netcoreapp3.1\abstracttask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\abstracttask\abstracttask\obj\Debug\netcoreapp3.1\abstracttask.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\abstracttask\abstracttask\obj\Debug\netcoreapp3.1\abstracttask.AssemblyInfo.cs
+C:\Users\acer\Desktop\abstracttask\abstracttask\obj\Debug\netcoreapp3.1\abstracttask.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\abstracttask\abstracttask\obj\Debug\netcoreapp3.1\abstracttask.dll
+C:\Users\acer\Desktop\abstracttask\abstracttask\obj\Debug\netcoreapp3.1\abstracttask.pdb
+C:\Users\acer\Desktop\abstracttask\abstracttask\obj\Debug\netcoreapp3.1\abstracttask.genruntimeconfig.cache
